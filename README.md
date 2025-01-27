@@ -15,8 +15,8 @@ I am a dedicated and results-driven data scientist with a strong background in p
 
 ## Education
 - **Degree:**  MS in Data Science, Indiana University Bloomington, 2026
- B.Tech in Electronics and Telecommunication, Vishwakarma Institute of Technology, 2023
--            
+- B.Tech in Electronics and Telecommunication, Vishwakarma Institute of Technology, 2023
+            
 
 ## Contact Me
 - LinkedIn: Niranjan_Tapasvi(https://www.linkedin.com/in/niranjan-tapasvi-9a581b202/)
