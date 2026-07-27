@@ -68,6 +68,7 @@ LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
 ## Education
 
 MS, Data Science — Indiana University Bloomington, 2026
+
 B.Tech, Electronics and Telecommunication — Vishwakarma Institute of Technology, 2023
 
 ## Contact
