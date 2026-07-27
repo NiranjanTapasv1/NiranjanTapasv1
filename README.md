@@ -74,6 +74,7 @@ B.Tech, Electronics and Telecommunication — Vishwakarma Institute of Technolog
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/niranjan-tapasvi-9a581b202/
+
 Email: niranjantapasvi16@gmail.com
 
 Open to full-time roles and conversations around agent safety, RAG, and perception systems.
