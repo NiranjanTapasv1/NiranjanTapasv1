@@ -41,11 +41,10 @@ Repo: https://github.com/NiranjanTapasv1/Mem0-growthOS · Live: https://mem0-gro
 
 <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,opencv,fastapi,react,postgres,docker,aws,git,linux" />
 
-<details> <summary>GitHub stats</summary> <br> <img src="https://github-readme-stats.vercel.app/api?username=NiranjanTapasv1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTapasv1&layout=compact&theme=github_dark&hide_border=true" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanTapasv1&theme=github-dark-blue&hide_border=true" width="49%" /> </details> <details> <summary>Recent activity</summary> <br>
-
-  LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
+ LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
+ 
+<details> <summary>GitHub stats</summary> <br> <img src="https://github-readme-stats.vercel.app/api?username=NiranjanTapasv1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTapasv1&layout=compact&theme=github_dark&hide_border=true" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanTapasv1&theme=github-dark-blue&hide_border=true" width="49%" /> </details> <details> <summary>Recent activity</summary> <br> 
 Show Image
-
 </details>
 
 ## Education
