@@ -1,0 +1,61 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/>
+    </marker>
+  </defs>
+
+  <style>
+    .box { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .boxAllow { fill: #0d1117; stroke: #2ea043; stroke-width: 1.5; }
+    .boxBlock { fill: #0d1117; stroke: #f85149; stroke-width: 1.5; }
+    .boxPause { fill: #0d1117; stroke: #d29922; stroke-width: 1.5; }
+    .label { fill: #c9d1d9; font-family: Consolas, monospace; font-size: 13px; }
+    .sub { fill: #8b949e; font-family: Consolas, monospace; font-size: 10px; }
+    .line { stroke: #30363d; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+  </style>
+
+  <rect width="900" height="220" fill="#0d1117"/>
+
+  <rect x="20" y="80" width="150" height="60" rx="10" class="box"/>
+  <text x="95" y="105" text-anchor="middle" class="label">Agent plans</text>
+  <text x="95" y="122" text-anchor="middle" class="label">tool call</text>
+
+  <path class="line" d="M170 110 L 260 110"/>
+
+  <rect x="260" y="70" width="180" height="80" rx="10" class="box"/>
+  <text x="350" y="95" text-anchor="middle" class="label">Z3 Safety Checker</text>
+  <text x="350" y="112" text-anchor="middle" class="sub">permissions · budget</text>
+  <text x="350" y="126" text-anchor="middle" class="sub">forbidden sequences</text>
+
+  <path class="line" d="M440 90 L 540 30"/>
+  <path class="line" d="M440 110 L 540 110"/>
+  <path class="line" d="M440 130 L 540 190"/>
+
+  <rect x="540" y="0" width="160" height="60" rx="10" class="boxAllow"/>
+  <text x="620" y="27" text-anchor="middle" class="label">Allow</text>
+  <text x="620" y="44" text-anchor="middle" class="sub">action executes</text>
+
+  <rect x="540" y="80" width="160" height="60" rx="10" class="boxPause"/>
+  <text x="620" y="107" text-anchor="middle" class="label">Pause</text>
+  <text x="620" y="124" text-anchor="middle" class="sub">human approval</text>
+
+  <rect x="540" y="160" width="160" height="60" rx="10" class="boxBlock"/>
+  <text x="620" y="187" text-anchor="middle" class="label">Block</text>
+  <text x="620" y="204" text-anchor="middle" class="sub">logged + rejected</text>
+
+  <path class="line" d="M700 30 L 800 100"/>
+  <path class="line" d="M700 110 L 800 100"/>
+  <path class="line" d="M700 190 L 800 100"/>
+
+  <rect x="800" y="70" width="90" height="60" rx="10" class="box"/>
+  <text x="845" y="95" text-anchor="middle" class="label">Audit</text>
+  <text x="845" y="112" text-anchor="middle" class="label">log</text>
+
+  <!-- animated packet: request path, allow branch -->
+  <circle r="5" fill="#58a6ff">
+    <animateMotion dur="4s" repeatCount="indefinite"
+      path="M95,110 L350,110 L620,30 L845,100" keyTimes="0;0.35;0.7;1" calcMode="linear"/>
+    <animate attributeName="fill" values="#58a6ff;#58a6ff;#2ea043;#2ea043" keyTimes="0;0.35;0.36;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
