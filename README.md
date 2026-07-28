@@ -1,14 +1,10 @@
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Building+AI+agent+safety+systems;Perception+and+3D+reconstruction;Shipping+real%2C+working+products" alt="typing header" />
-</picture>
-
 ![](https://ntapasvi16.goatcounter.com/count?p=/github-readme)
 
-# Niranjan Tapasvi
+<img src="https://raw.githubusercontent.com/NiranjanTapasv1/NiranjanTapasv1/main/hero-banner.svg" width="100%" alt="Niranjan Tapasvi" />
 
 I build AI systems that are meant to be trusted, not just capable — with a focus on agent safety, perception, and applied machine learning.
 
-MS Data Science, Indiana University Bloomington. Previously at the Vehicle Autonomy and Intelligence Lab, Sendblue, and Opine Group.
+Previously at the Vehicle Autonomy and Intelligence Lab, Sendblue, and Opine Group.
 
 ## Background
 
@@ -23,7 +19,7 @@ I build the same kind of tools outside of work: systems that catch failure befor
 ### Z3 AI Agent Safety Checker
 A pre-execution safety layer for AI agents. Every planned tool call is checked against permissions, budget limits, and forbidden action sequences before the agent is allowed to act.
 
-<img src="https://raw.githubusercontent.com/NiranjanTapasv1/NiranjanTapasv1/main/pipeline-diagram.svg" alt="agent safety pipeline" width="100%" />
+<img src="https://raw.githubusercontent.com/NiranjanTapasv1/NiranjanTapasv1/main/pipeline-diagram.svg" width="100%" alt="agent safety pipeline" />
 
 Repo: https://github.com/NiranjanTapasv1/z3-agent-safety-checker
 Demo: https://www.loom.com/share/9159ac806f3344f6ae013562fee9959f
@@ -40,41 +36,23 @@ Repo: https://github.com/NiranjanTapasv1/AI-Visiblity-Drift · Live: https://ai-
 A growth intelligence platform that finds developers hitting the AI memory wall in real time and helps a GTM team reach them before they build something custom instead.
 Repo: https://github.com/NiranjanTapasv1/Mem0-growthOS · Live: https://mem0-growthos.onrender.com/
 
-## Stack
-
+Stack
 <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,opencv,fastapi,react,postgres,docker,aws,git,linux" />
-
 LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
-
-<details>
-<summary>GitHub stats</summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NiranjanTapasv1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTapasv1&layout=compact&theme=github_dark&hide_border=true" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanTapasv1&theme=github-dark-blue&hide_border=true" width="49%" />
-
-</details>
-
-<details>
-<summary>Recent activity</summary>
-<br>
-
-![snake gif](https://raw.githubusercontent.com/NiranjanTapasv1/NiranjanTapasv1/output/github-contribution-grid-snake-dark.svg)
-
+<details> <summary>GitHub stats</summary> <br> <img src="https://github-readme-stats.vercel.app/api?username=NiranjanTapasv1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTapasv1&layout=compact&theme=github_dark&hide_border=true" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanTapasv1&theme=github-dark-blue&hide_border=true" width="49%" /> </details> <details> <summary>Recent activity</summary> <br>
+Show Image
 </details>
 
 ## Education
 
 MS, Data Science — Indiana University Bloomington, 2026
 
-B.Tech, Electronics and Telecommunication — Vishwakarma Institute of Technology, 2023
+B.Tech, Electronics and Computer Engineering — Vishwakarma Institute of Technology, 2023
 
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/niranjan-tapasvi-9a581b202/
 
-Email: niranjantapasvi16@gmail.com
+Email: ntapasvi16@gmail.com
 
 Open to full-time roles and conversations around agent safety, RAG, and perception systems.
