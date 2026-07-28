@@ -22,6 +22,7 @@ A pre-execution safety layer for AI agents. Every planned tool call is checked a
 <img src="https://raw.githubusercontent.com/NiranjanTapasv1/NiranjanTapasv1/main/pipeline-diagram.svg" width="100%" alt="agent safety pipeline" />
 
 Repo: https://github.com/NiranjanTapasv1/z3-agent-safety-checker
+
 Demo: https://www.loom.com/share/9159ac806f3344f6ae013562fee9959f
 
 ### Frame2Mesh — 3D Reconstruction from Smartphone Video
@@ -36,11 +37,15 @@ Repo: https://github.com/NiranjanTapasv1/AI-Visiblity-Drift · Live: https://ai-
 A growth intelligence platform that finds developers hitting the AI memory wall in real time and helps a GTM team reach them before they build something custom instead.
 Repo: https://github.com/NiranjanTapasv1/Mem0-growthOS · Live: https://mem0-growthos.onrender.com/
 
-Stack
+## Stack
+
 <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,opencv,fastapi,react,postgres,docker,aws,git,linux" />
-LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
+
 <details> <summary>GitHub stats</summary> <br> <img src="https://github-readme-stats.vercel.app/api?username=NiranjanTapasv1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTapasv1&layout=compact&theme=github_dark&hide_border=true" width="35%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanTapasv1&theme=github-dark-blue&hide_border=true" width="49%" /> </details> <details> <summary>Recent activity</summary> <br>
+
+  LLM agents · RAG · retrieval · tool calling · agent evaluation · guardrails
 Show Image
+
 </details>
 
 ## Education
