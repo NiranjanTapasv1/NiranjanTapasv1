@@ -27,15 +27,22 @@ Demo: https://www.loom.com/share/9159ac806f3344f6ae013562fee9959f
 
 ### Frame2Mesh — 3D Reconstruction from Smartphone Video
 An end-to-end pipeline that turns smartphone video into a dense point cloud and clean 3D mesh, using COLMAP and Screened Poisson reconstruction. Built on multi-view geometry, no generative fill-in.
+
 Repo: https://github.com/NiranjanTapasv1/frame2mesh-3d-reconstruction
 
 ### GEO Drift Tracker
 Tracks how AI answers to the same question shift across Gemini and Groq, so a brand can see when it's being described inconsistently across models.
-Repo: https://github.com/NiranjanTapasv1/AI-Visiblity-Drift · Live: https://ai-visiblity-drift-8t9ywwcijebgn3pohxfhhx.streamlit.app/
+
+Repo: https://github.com/NiranjanTapasv1/AI-Visiblity-Drift 
+
+Live: https://ai-visiblity-drift-8t9ywwcijebgn3pohxfhhx.streamlit.app/
 
 ### Mem0 GrowthOS
 A growth intelligence platform that finds developers hitting the AI memory wall in real time and helps a GTM team reach them before they build something custom instead.
-Repo: https://github.com/NiranjanTapasv1/Mem0-growthOS · Live: https://mem0-growthos.onrender.com/
+
+Repo: https://github.com/NiranjanTapasv1/Mem0-growthOS 
+
+Live: https://mem0-growthos.onrender.com/
 
 ## Stack
 
